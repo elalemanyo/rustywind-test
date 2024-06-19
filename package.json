@@ -1,0 +1,9 @@
+{
+  "name": "rustywind-test",
+  "scripts": {
+    "rustywind": "rustywind"
+  },
+  "dependencies": {
+    "rustywind": "^0.22.0"
+  }
+}
